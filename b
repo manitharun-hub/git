@@ -1,2 +1,2 @@
- B file
+ B file after -u
 
